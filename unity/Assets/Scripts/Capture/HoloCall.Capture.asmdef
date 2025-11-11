@@ -1,0 +1,22 @@
+{
+  "name": "HoloCall.Capture",
+  "rootNamespace": "HoloCall.Capture",
+  "references": [
+    "HoloCall.Core",
+    "HoloCall.Networking"
+  ],
+  "includePlatforms": [
+    "Editor",
+    "WindowsStandalone64",
+    "macOSStandalone",
+    "LinuxStandalone64"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

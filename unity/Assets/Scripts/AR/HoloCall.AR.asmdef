@@ -1,0 +1,28 @@
+{
+  "name": "HoloCall.AR",
+  "rootNamespace": "HoloCall.AR",
+  "references": [
+    "HoloCall.Core",
+    "HoloCall.Networking",
+    "Unity.XR.ARFoundation",
+    "Unity.XR.ARSubsystems"
+  ],
+  "includePlatforms": [
+    "Android",
+    "iOS"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.unity.xr.arfoundation",
+      "expression": "5.0.0",
+      "define": "ARFOUNDATION_5_OR_NEWER"
+    }
+  ],
+  "noEngineReferences": false
+}
