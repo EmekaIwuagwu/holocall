@@ -1,0 +1,19 @@
+{
+  "name": "HoloCall.Avatar",
+  "rootNamespace": "HoloCall.Avatar",
+  "references": [
+    "HoloCall.Core",
+    "HoloCall.Networking",
+    "Unity.XR.ARFoundation",
+    "Unity.XR.ARSubsystems"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
